@@ -1,0 +1,19 @@
+{
+    "name": "msrana/csv-combiner",
+    "description": "This is a simple csv import and mapping library what i really need to work quickly",
+    "type": "helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Salahuddin Rana",
+            "email": "rana7cse@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rana\\CsvCombiner\\": "src"
+        }
+    },
+    "autoload-dev": {}
+}
