@@ -6,7 +6,7 @@
  * Time: 11:32 PM
  */
 
-namespace Rana\Combo;
+namespace Rana\Csv\Combo;
 
 
 class Csv
